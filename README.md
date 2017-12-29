@@ -1,4 +1,4 @@
-# Golang 学习笔记
+# [Golang 学习笔记](https://www.gitbook.com/book/henryz/study-grpc-go)
 
 ## 导航
 Golang无须多言,做中间件的必备技能
