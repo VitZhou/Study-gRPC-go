@@ -1,7 +1,5 @@
 # Go gRPC Middleware
 
-[官网](https://github.com/grpc-ecosystem/go-grpc-middleware)
-
 ```go
 import "github.com/grpc-ecosystem/go-grpc-middleware"
 ```

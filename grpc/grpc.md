@@ -1,5 +1,4 @@
 # Go gRPC
-[官网](https://godoc.org/google.golang.org/grpc#pkg-constants)
 
 ## 常亮
 
