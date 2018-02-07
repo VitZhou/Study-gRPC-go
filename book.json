@@ -1,9 +1,9 @@
 {
-  "author": "herryZ <zsh989163@163.com>",
+  "author": "vitzhou <vitzhou@gmail.com>",
   "description": "Golang学习笔记",
   "generator": "site",
   "sidebar": {
-    "herryZ@gitbook": "https://henryZ.gitbooks.io"
+    "vitzhou@gitbook": "https://vitzhou.gitbooks.io"
   },
   "output": null,
   "title": "Go gPRC学习笔记",
@@ -28,27 +28,27 @@
   ],
   "pluginsConfig": {
     "donate": {
-      "wechat": "https://henryz.gitbooks.io/java-test-learning/content/img/wechat.png",
-      "alipay": "https://henryz.gitbooks.io/java-test-learning/content/img/alipay.png",
+      "wechat": "https://vitzhou.gitbooks.io/java-test-learning/content/img/wechat.png",
+      "alipay": "https://vitzhou.gitbooks.io/java-test-learning/content/img/alipay.png",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
       "wechatText": "微信打赏"
     },
     "github-buttons": {
-      "repo": "henryZ/study-golang",
+      "repo": "vitzhou/study-golang",
       "types": ["star"],
       "size": "small"
     },
     "github": {
-      "url": "https://github.com/henryZ/Study-gRPC-go"
+      "url": "https://github.com/vitzhou/Study-gRPC-go"
     },
 	"edit-link": {
-        "base": "https://github.com/henryZ/Study-gRPC-go/edit/master",
+        "base": "https://github.com/vitzhou/Study-gRPC-go/edit/master",
         "label": "编辑本页"
     },
     "tbfed-pagefooter": {
-      "copyright":"Copyright &copy www.gitbook.com/@herryZ 2016",
+      "copyright":"Copyright &copy www.gitbook.com/@vitzhou 2016",
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
